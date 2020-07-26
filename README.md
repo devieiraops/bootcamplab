@@ -1,2 +1,2 @@
-# bootcamplab
-jenkins ci/cd
+# wscicd
+Workshop CiCd
